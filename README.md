@@ -37,12 +37,6 @@ The dataset contains sales transaction data including:
 
 ---
 
-# 📊 Dashboard Preview
-
-![Madhav Sales Dashboard](Screenshots/dashboard.png)
-
----
-
 # 📈 Key Insights
 
 • Certain product categories generate the highest revenue.
@@ -88,6 +82,3 @@ Madhav-Sales-Dashboard
 **Sunaina Singh**
 
 Aspiring Data Analyst passionate about transforming data into actionable insights.
-
-LinkedIn: (Add your LinkedIn link)  
-GitHub: (Add your GitHub link)
