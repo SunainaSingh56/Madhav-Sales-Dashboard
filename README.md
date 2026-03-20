@@ -65,6 +65,9 @@ Madhav-Sales-Dashboard/
 ```
 
 ---
+## 📸 Dashboard Preview
+
+![Madhav Sales Dashboard](madhav_dashboard.png)
 
 ## 📫 Connect with Me
 
